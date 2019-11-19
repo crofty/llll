@@ -1,0 +1,5 @@
+{:deps {
+        org.clojure/clojure {:mvn/version "1.10.0"}
+        overtone {:mvn/version "0.10.6"}
+        instaparse {:mvn/version "1.4.9"}
+        mount {:mvn/version "0.1.12"} }}
